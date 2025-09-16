@@ -1,2 +1,4 @@
-# learning-reactjs
-Learning ReactJS
+learning-reactjs
+# Learning ReactJS
+
+- [References](./REFERENCES.md)
